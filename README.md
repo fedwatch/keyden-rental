@@ -12,6 +12,7 @@
                 				c-0.6-0.1-1-0.5-1.2-1.1c-0.1-0.3-0.1-0.6,0-0.9c0.1-0.3,5.6-17.1,5.6-17.1c0.2-0.6,0.8-1,1.4-1h15c0.8,0,1.5,0.7,1.5,1.5
                 				s-0.7,1.5-1.5,1.5H49.4l-3.8,11.8c2.7-1.5,5.6-2.3,8.8-2.5c11.5-0.6,21.3,8.1,21.9,19.6c0.3,5.5-1.5,10.9-5.2,15
                 				c-3.7,4.1-8.8,6.6-14.3,6.9C56.3,95.2,55.9,95.2,55.5,95.2z"></path></g></svg>
+                    
 
 You can use the [editor on GitHub](https://github.com/fedwatch/keyden-rental/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
